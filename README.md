@@ -1,20 +1,23 @@
+# Título del proyecto
+
 ## Descripción
 
-Breve explicación del proyecto.
+Proyecto  sobre la provincia de Catamarca, con información general sobre sus paisajes, lugares y características.
 
 ## Objetivo
 
-Indicar qué se busca organizar, documentar o desarrollar en este repositorio.
+Presentar información de Catamarca mediante una página web sencilla y aplicar los conocimientos adquiridos sobre Git y GitHub.
 
 ## Estructura del repositorio
 
-Explicar brevemente qué contiene cada carpeta o archivo principal.
+ README.md
+ ENTREGA.md
+ proyecto/index.html - style.css
 
 ## Autor
 
-Nombre y apellido del participante.
+Malena Marón
 
 ## Estado del proyecto
 
-Indicar si el proyecto está finalizado, en desarrollo o en revisión o en revisión final.
-
+En desarrollo.
