@@ -1,0 +1,56 @@
+{
+  box-sizing: border-box;
+  }
+
+body {
+margin: 0;
+font-family: Arial, sans-serif;
+background-color: #f4f4f4;
+color: #333;
+}
+
+header {
+background-color: #4b5fa3;
+color: white;
+text-align: center;
+padding: 40px 20px;
+}
+
+header h1 {
+margin: 0 0 10px;
+}
+
+main {
+max-width: 1000px;
+margin: 0 auto;
+padding: 30px 20px;
+}
+
+section {
+margin-bottom: 30px;
+}
+
+h2 {
+color: #4b5fa3;
+}
+
+.lugares {
+display: flex;
+gap: 20px;
+flex-wrap: wrap;
+}
+
+article {
+background-color: white;
+padding: 20px;
+flex: 1;
+min-width: 200px;
+border-radius: 8px;
+}
+
+footer {
+background-color: #333;
+color: white;
+text-align: center;
+padding: 20px;
+}
