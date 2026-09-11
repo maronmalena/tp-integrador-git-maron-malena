@@ -2,9 +2,9 @@
 
 ## Datos del participante
 
-- Nombre y apellido:
-- Curso:
-- Fecha de entrega:
+- Nombre y apellido:Marón Malena
+- Curso: Introducción a Git y GitHub para la gestión de proyectos digitales
+- Fecha de entrega: 11/09/2026
 
 ## Enlaces
 
@@ -21,17 +21,20 @@ Indicar los comandos utilizados durante el trabajo:
 - git add
 - git commit
 - git log --oneline
+- git branch
+- git merge
+- git switch o git checkout
 - git remote add origin
 - git remote -v
 - git push
-- git branch
-- git switch o git checkout
-- git merge
 - git pull
+
+
 
 ## Descripción del proceso
 
-Explicar en 5 a 8 líneas cómo se creó, versionó, publicó y documentó el proyecto.
+Se creó la estructura inicial del proyecto y se inició el repositorio local con Git, luego se realizó un primer commit con los archivos iniciales, se creó una rama de trabajo para realizar modificaciones en el proyecto, se realizaron cambios en el contenido y los estilos de la página
+los cambios de la rama fueron integrados a la rama master mediante merge.
 
 ## Dificultades encontradas
 
